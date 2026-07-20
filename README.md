@@ -78,10 +78,10 @@ I'm a **Principal Engineer at Tharsha Ventures**, where I lead engineering for a
 <div align="center">
 
 <a href="https://github.com/vins13pattar">
-  <img src="https://github-readme-stats.vercel.app/api?username=vins13pattar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-delta-eight-60.vercel.app/api?username=vins13pattar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github" height="165" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/vins13pattar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vins13pattar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats-delta-eight-60.vercel.app/api/top-langs/?username=vins13pattar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages"/>
 </a>
 
 <a href="https://github.com/vins13pattar">
