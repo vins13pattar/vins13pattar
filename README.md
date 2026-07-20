@@ -19,6 +19,12 @@ I'm a **Principal Engineer at Tharsha Ventures**, where I lead engineering for a
 
 ## 🚀 Featured Projects
 
+### 🛰️ Flagship Open Source
+
+| Project | Description |
+|---|---|
+| [**trackflow-open-source**](https://github.com/vins13pattar/trackflow-open-source) | Multi-tenant GPS tracking SaaS — in-house GT06/H02/Teltonika protocol decoders, real-time MapLibre dashboard, Postgres RLS tenant isolation, Expo mobile tracker. Apache-2.0 |
+
 ### 🤖 AI Agents & GenAI Systems
 
 | Project | Description |
@@ -52,23 +58,22 @@ I'm a **Principal Engineer at Tharsha Ventures**, where I lead engineering for a
 | [**langchain-python**](https://github.com/vins13pattar/langchain-python) | Structured collection of LangChain examples |
 | [**Python-for-Gen-AI**](https://github.com/vins13pattar/Python-for-Gen-AI) ⭐3 | Hands-on workspace: Python fundamentals → GenAI building blocks |
 
+<!-- WEBINAR REPO — replace REPO_NAME and the description, then move this row into the table above:
+| [**REPO_NAME**](https://github.com/vins13pattar/REPO_NAME) | Webinar platform — description here |
+-->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+<a href="https://github.com/vins13pattar">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,laravel,fastapi,aws,docker,postgres,redis&perline=10" alt="Core tech stack"/>
+</a>
+
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
@@ -87,6 +92,22 @@ I'm a **Principal Engineer at Tharsha Ventures**, where I lead engineering for a
 <a href="https://github.com/vins13pattar">
   <img src="https://github-readme-streak-stats-self-xi.vercel.app/?user=vins13pattar&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak stats"/>
 </a>
+
+<a href="https://github.com/vins13pattar">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vins13pattar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" alt="Contribution activity graph"/>
+</a>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vins13pattar/vins13pattar/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vins13pattar/vins13pattar/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/vins13pattar/vins13pattar/output/github-snake.svg" alt="Contribution snake animation"/>
+</picture>
 
 </div>
 
