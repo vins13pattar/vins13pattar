@@ -85,7 +85,7 @@ I'm a **Principal Engineer at Tharsha Ventures**, where I lead engineering for a
 </a>
 
 <a href="https://github.com/vins13pattar">
-  <img src="https://streak-stats.demolab.com?user=vins13pattar&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak stats"/>
+  <img src="https://github-readme-streak-stats-self-xi.vercel.app/?user=vins13pattar&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak stats"/>
 </a>
 
 </div>
