@@ -13,8 +13,8 @@
 I'm a **Principal Engineer at Tharsha Ventures**, where I lead engineering for an elder-technology ecosystem — five products spanning community, talent, housing, wealth, and life-planning for India's senior citizens.
 
 - 🏗️ **Building** — EldersIndia · EldersTalent · EldersAbode · EldersWealth · LifeArc
-- 🎓 **Teaching** — Generative AI curriculum at MicroDegree (Bengaluru & Mangaluru)
-- 🤖 **Exploring** — AI agents, LangChain, agentic coding workflows & compliance automation
+- 🎓 **Teaching** — Generative AI training at MicroDegree (Bengaluru & Mangaluru)
+- 🤖 **Well-versed in** — AI agents, LangChain, agentic coding workflows & compliance automation
 - 🇮🇳 **Based in** — Bengaluru, India
 
 ## 🚀 Featured Projects
